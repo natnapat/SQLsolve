@@ -1,0 +1,2 @@
+/* SelectAll */
+SELECT * FROM CITY;
